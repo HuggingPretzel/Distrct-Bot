@@ -2,7 +2,8 @@
  New District Studios Discord Bot
  
  Bot made using Java and the JDA Java Library
- -currently being remade using Java 11
+ 
+ currently being remade using Java 11
  
  [District Website](https://districtmeps.com)  
  [Discord](https://discord.gg/7DkcHW8)  
